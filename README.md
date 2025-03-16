@@ -31,7 +31,7 @@ The evaluation codes are listed below:
 ```
 
 ## Usage
-Simply modified the evaluation method in `train_net.py`
+Simply change the evaluation method in `train_net.py`
 
 ```python
 class Trainer(DefaultTrainer):
