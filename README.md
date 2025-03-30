@@ -1,4 +1,4 @@
-# Revisit the Open Nature of Open Vocabulary Semantic Segmentation [ICLR2025]
+# 👁️‍🗨️ Revisit the Open Nature of Open Vocabulary Semantic Segmentation [ICLR2025]
 
 Qiming Huang, Han Hu, Jianbo Jiao
 
