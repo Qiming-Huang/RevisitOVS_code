@@ -2,7 +2,7 @@
 
 Qiming Huang, Han Hu, Jianbo Jiao
 
-<a href='https://mix.jianbojiao.com/'> MIX, Machine Intelligence + x, School of Computer Science, University of Birmingham. </a> Our group mainly studies machine learning and computer vision, and also interested in other applied machine learning problems including multimodal data, neuroscience, healthcare, physics, chemistry, to name a few. That is where the x lies in.
+<a href='https://mix.jianbojiao.com/'> Machine Intelligence + *x* (MI*x*), School of Computer Science, University of Birmingham. </a> Our group mainly studies machine learning and computer vision, and also interested in other applied machine learning problems including multimodal data, neuroscience, healthcare, physics, chemistry, to name a few. That is where the x lies in.
 
 <a href='https://qiming-huang.github.io/RevisitOVS/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/ArXiv-2304.09148-red' /></a> 
 
